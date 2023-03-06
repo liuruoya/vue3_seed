@@ -95,19 +95,10 @@ Hit CTRL-C to stop the server'
 	│	├── assets (本地静态资源：图片、svg等)
 	│	│
 	│	├── components (存放公用全局组件)
-	│	│   ├── auth (鉴权)
-	│	│   ├── cropper (裁剪图片)
-	│	│   ├── editor (富文本编辑器)
-	│	│   ├── iconSelector (图标选择器)
-	│	│   ├── noticeBar (滚动通知)
-	│	│   └── svgIcon (自定义封装 svg 图标)
 	│	│
 	│	├── i18n (存放框架国际化内容)
 	│	│   ├── lang (框架内置国际化)
 	│	│   └── pages (自定义国际化)
-	│	│       ├── formI18n (表单)
-	│	│       ├── home (首页)
-	│	│       └── login (登录页)
 	│	│
 	│	├── layout (存放框架布局视图)
 	│	│   ├── component (布局公用组件)
